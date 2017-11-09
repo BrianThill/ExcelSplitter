@@ -3,7 +3,7 @@ Imports Microsoft.Office.Interop
 Imports Microsoft.Office.Interop.Excel.XlFileFormat
 Imports System.IO
 
-Module Module1
+Module Main
 
     Sub Main(args As String())
 

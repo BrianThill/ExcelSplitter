@@ -1,0 +1,5 @@
+﻿1>------ Rebuild All started: Project: ExcelSplitter, Configuration: Release Any CPU ------
+1>C:\Users\bthill\source\repos\ExcelSplitter\ExcelSplitter\Main.vb(21,49): warning BC42104: Variable 'fname' is used before it has been assigned a value. A null reference exception could result at runtime.
+1>C:\Users\bthill\source\repos\ExcelSplitter\ExcelSplitter\Main.vb(46,20): warning BC42104: Variable 'wbSource' is used before it has been assigned a value. A null reference exception could result at runtime.
+1>  ExcelSplitter -> C:\Users\bthill\source\repos\ExcelSplitter\ExcelSplitter\bin\Release\ExcelSplitter.exe
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========

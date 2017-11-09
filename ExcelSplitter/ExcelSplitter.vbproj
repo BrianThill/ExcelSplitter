@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{2045B3B3-A98D-4711-AE9D-0B3663CB849D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>ConsoleApp1.Module1</StartupObject>
+    <StartupObject>ConsoleApp1.Main</StartupObject>
     <RootNamespace>ConsoleApp1</RootNamespace>
     <AssemblyName>ExcelSplitter</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -96,7 +96,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Module1.vb" />
+    <Compile Include="Main.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
