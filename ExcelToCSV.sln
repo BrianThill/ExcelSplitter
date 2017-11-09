@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ExcelSplitter", "ExcelSplitter\ExcelSplitter.vbproj", "{2045B3B3-A98D-4711-AE9D-0B3663CB849D}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ExcelToCSV", "ExcelSplitter\ExcelToCSV.vbproj", "{2045B3B3-A98D-4711-AE9D-0B3663CB849D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

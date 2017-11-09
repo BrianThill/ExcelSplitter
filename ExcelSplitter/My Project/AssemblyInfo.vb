@@ -8,8 +8,8 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("ConsoleApp1")>
-<Assembly: AssemblyDescription("")>
+<Assembly: AssemblyTitle("ExcelToCSV")>
+<Assembly: AssemblyDescription("Extracts first Worksheet as CSV file")>
 <Assembly: AssemblyCompany("")>
 <Assembly: AssemblyProduct("ConsoleApp1")>
 <Assembly: AssemblyCopyright("Copyright ©  2017")>
